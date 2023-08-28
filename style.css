@@ -1,0 +1,16 @@
+form {
+    margin-right: 10px;
+}
+
+form div input,
+form div textarea {
+    width: 100%;
+}
+
+form div textarea {
+    height: 150px;
+}
+
+div {
+    margin-bottom: 25px;
+}
